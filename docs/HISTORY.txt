@@ -7,6 +7,5 @@ Changelog
 - Moved to https://github.com/collective/collective.collage.rssdocument
   [maurits]
 
-- Initial release
-
-- Created from paster template
+- Initial release.
+  [tzicatl]
