@@ -1,8 +1,12 @@
 Changelog
 =========
 
-0.1dev (unreleased)
--------------------
+0.1 (unreleased)
+----------------
+
+- Moved to https://github.com/collective/collective.collage.rssdocument
+  [maurits]
 
 - Initial release
+
 - Created from paster template

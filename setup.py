@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '0.1'
+version = '0.1.dev0'
 
 setup(name='collective.collage.rssdocument',
       version=version,
@@ -16,7 +16,7 @@ setup(name='collective.collage.rssdocument',
       keywords='collage plone iservices rss rssdocument',
       author='Noe Nieto',
       author_email='desarrollo@iservices.com.mx',
-      url='http://svn.plone.org/svn/collective/collective.collage.rssdocument',
+      url='https://github.com/collective/collective.collage.rssdocument',
       license='LGPL',
       packages=find_packages(exclude=['ez_setup']),
       namespace_packages=['collective', 'collective.collage'],
